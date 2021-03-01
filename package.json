@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "normalize.css": "8.0.1",
-    "three": "0.114.0"
+    "three": "0.125.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
